@@ -18,11 +18,11 @@ This app lets users create, edit, delete, and take multiple-choice quizzes with 
 
 ## 🖼 Screenshots
 
- |<img src="https://github.com/user-attachments/assets/2faa0adb-0fbb-42ac-a9f9-24c51f30ecc3" width="200">
+<img src="https://github.com/user-attachments/assets/2faa0adb-0fbb-42ac-a9f9-24c51f30ecc3" width="200">
 <img src="https://github.com/user-attachments/assets/8ef3347e-dbb3-4324-987b-391c4c4e36a3" width="200">
-| <img src="https://github.com/user-attachments/assets/6356340a-11d0-4161-adf0-4e3f2c66de5d" width="200">
-|<img src="https://github.com/user-attachments/assets/74d90173-234d-4608-86d9-73236b8d5f3f" width="200">
-|<img src="https://github.com/user-attachments/assets/1baf55ab-afbe-44f4-95cf-7fe6564ae1a8" width="200">
+<img src="https://github.com/user-attachments/assets/6356340a-11d0-4161-adf0-4e3f2c66de5d" width="200">
+<img src="https://github.com/user-attachments/assets/74d90173-234d-4608-86d9-73236b8d5f3f" width="200">
+<img src="https://github.com/user-attachments/assets/1baf55ab-afbe-44f4-95cf-7fe6564ae1a8" width="200">
 
 
 ---
