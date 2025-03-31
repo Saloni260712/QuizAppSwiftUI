@@ -20,7 +20,7 @@ This app lets users create, edit, delete, and take multiple-choice quizzes with 
 
 | Home | Add Question | Take Quiz | Result |
 |------|---------------|------------|--------|
-| ![Home](./screenshots/home.png) | ![Add](./screenshots/add.png) | ![Quiz](./screenshots/quiz.png) | ![Result](./screenshots/result.png) |
+| ![Home](.//Users/meet/Desktop/IOS-SS/Home.png) | ![Add](./screenshots/add.png) | ![Quiz](./screenshots/quiz.png) | ![Result](./screenshots/result.png) |
 
 > Add your screenshots inside a `/screenshots/` folder.
 
